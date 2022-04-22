@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+}
+h1{
+	font-family: 'Atma', cursive;
+	font-size:74px;
+	color:#FFF;
+	margin-top:23px;
+}
+h2{
+	font-family: 'Atma', cursive;
+}
+
+p{
+	font-family: 'Fredoka', sans-serif;
+
+}

@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+}
+.cont-menu{
+	font-family: 'Fredoka', sans-serif;
+	font-size:20px;
+	margin-left:auto;
+    width: 100%;
+    max-width: 240px;
+    background: #000;
+    height: 100vh;
+	position:relative;
+    transition: all 500ms ease;
+}
+.cont-menu nav a{
+    display: block;
+    text-decoration: none;
+    padding: 7px;
+    color: #FFF;
+    border-left: 7px solid transparent;
+	transition: all 400ms ease;
+}
+.cont-menu nav a:hover{
+    border-left: 5px solid #FFF;
+    background: #666;
+}
+.nav a > ul{
+	display:
+}
+.nav img >a: hover{
+	border-left: 0px solid #FFF;
+    background: #666;
+}
+	
+h3{
+	font-family: 'Fredoka', sans-serif;
+	color:#FFF;
+	font-size:16px;
+	margin-top:auto;
+}
+h2{
+	font-family: 'Fredoka', sans-serif;
+	font-size:20px;
+	color:#FFF;
+}
+/*encabezado*/
+h1{
+	font-family: 'Satisfy', cursive;
+	font-size:84px;
+	color:#FFF;
+	margin-top:auto;
+}
+img{
+	margin-right:auto;
+	margin-top:auto;
+}
+/*central*/
+	
+	
